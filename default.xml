@@ -12,8 +12,8 @@
   <!--project path="broker"
            name="broker.git" remote="origin" /-->
 
-  <!--project path="istio"
-           name="istio.git" remote="origin" /-->
+  <project path="istio"
+           name="istio.git" remote="origin" />
 
   <project path="mixer"
            name="mixer.git" remote="origin" />
