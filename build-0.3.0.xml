@@ -2,8 +2,8 @@
 <manifest>
   <remote fetch="../../.." name="github"/>
   
-  <default remote="github" revision="release-0.3.0" sync-j="4"/>
+  <default remote="github" revision="release-0.3" sync-j="4"/>
   
-  <project name="istio/istio" path="go/src/istio.io/istio" revision="b121b5260303fcfb8aab21cc6e7e1b87c8e90a04" upstream="release-0.3.0"/>
+  <project name="istio/istio" path="go/src/istio.io/istio" revision="b121b5260303fcfb8aab21cc6e7e1b87c8e90a04" upstream="release-0.3"/>
   <project name="istio/proxy" path="src/proxy" revision="ad3f963c6a197b8ad36c9f9428986c7fe84d20ca" upstream="master"/>
 </manifest>
