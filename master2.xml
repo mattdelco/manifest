@@ -2,6 +2,6 @@
 <manifest>
   <remote name="origin" fetch="git://github.com/" />
   <default revision="master2" remote="origin" sync-j="4" />
-  <project name="mattdelco/istio.git" path="go/src/istio.io/istio" revision="ba68f92c62711cfd1d76812f92a9ed545cbd64ce" remote="origin" />
+  <project name="mattdelco/istio.git" path="go/src/istio.io/istio" revision="ed65792d5e91a94f10294d75c67e703996fa75d1" remote="origin" />
   <project name="mattdelco/proxy.git" path="src/proxy" revision="5fe32cad8f20e87e9f319eeedb420844a63b2831" remote="origin" />
 </manifest>
