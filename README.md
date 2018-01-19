@@ -1,5 +1,3 @@
 # manifest
 
-Use default.xml to get bleeding edge from my forked repos.
-
-Use green.xml to get something that's known/expected to always work.
+various xml files that point to the HEAD of the typical branches I use for development.
