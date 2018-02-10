@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="git://github.com/" />
+  <default revision="master18" remote="origin" sync-j="4" />
+  <project name="mattdelco/istio.git" path="go/src/istio.io/istio" revision="master18" remote="origin" />
+  <project name="mattdelco/proxy.git" path="src/proxy" revision="master" remote="origin" />
+</manifest>
